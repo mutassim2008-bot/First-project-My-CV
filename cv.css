@@ -1,0 +1,67 @@
+.name-cv {
+  font-size: 24px;
+ margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.new-thema {
+    color: #027b1a;
+  font-size: 16px;
+  line-height: 1.5;
+   margin-left: 10px;
+  margin-bottom: 20px;
+  margin-bottom: 0px;
+}
+
+.text {
+    line-height: 1.4;
+ margin-left: 10px;
+  font-size: 16px;
+  margin-top: 3px;
+  margin-bottom: 0px;
+  width: 170px;
+}
+
+.blue-text {
+  color: #021e7b;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-top: 0px;
+   margin-left: 12px;
+  margin-bottom: 0px;
+}
+
+.skills-under-blue {
+    
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 0px;
+  margin-top: 2px;
+   margin-left: 10px;
+   
+
+}
+
+.list-first-p {
+line-height: 1.7;
+  font-size: 14px;
+  margin-left: 12px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  padding-left: 0px;
+}
+
+
+.list {
+line-height: 1.7;
+  font-size: 14px;
+  margin-left: 12px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-left: 0px;
+}
+
+
+
+
+
